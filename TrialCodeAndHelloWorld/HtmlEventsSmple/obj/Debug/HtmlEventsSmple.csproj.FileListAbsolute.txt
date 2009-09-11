@@ -1,0 +1,8 @@
+C:\Projects\Toolbareg\HtmlEventsSmple\bin\Debug\HtmlEventsSmple.exe
+C:\Projects\Toolbareg\HtmlEventsSmple\bin\Debug\HtmlEventsSmple.pdb
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\ResolveAssemblyReference.cache
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\HtmlEventsSmple.Form1.resources
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\HtmlEventsSmple.Properties.Resources.resources
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\HtmlEventsSmple.csproj.GenerateResource.Cache
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\HtmlEventsSmple.exe
+C:\Projects\Toolbareg\HtmlEventsSmple\obj\Debug\HtmlEventsSmple.pdb

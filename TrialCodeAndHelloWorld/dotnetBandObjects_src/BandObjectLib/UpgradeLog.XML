@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="BandObjectLib">
+</Property><Property Name="Solution File" Value="C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\BandObjectLib.sln">
+</Property><Property Name="Date" Value="03 February 2009">
+</Property><Property Name="Time" Value="08:35">
+</Property></Properties><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BandObjectLib" Source="BandObjectLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="BandObjectLib.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="BandObjectLib.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

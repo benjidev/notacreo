@@ -1,0 +1,5 @@
+C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\bin\Release\SampleBars.dll
+C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\obj\Release\SampleBars.HelloWorldBar.resources
+C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\obj\Release\SampleBars.csproj.GenerateResource.Cache
+C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\obj\Release\SampleBars.dll

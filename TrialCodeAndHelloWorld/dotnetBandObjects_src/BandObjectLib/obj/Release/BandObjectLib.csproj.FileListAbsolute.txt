@@ -1,0 +1,8 @@
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\bin\Release\BandObjectLib.dll
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\bin\Release\Interop.SHDocVw.dll
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\ResolveAssemblyReference.cache
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\Interop.SHDocVw.dll
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\BandObjectLib.csproj.ResolveComReference.cache
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\BandObjectLib.BandObject.resources
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\BandObjectLib.csproj.GenerateResource.Cache
+C:\Projects\Toolbareg\dotnetBandObjects_src\BandObjectLib\obj\Release\BandObjectLib.dll

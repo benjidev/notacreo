@@ -1,0 +1,65 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer>
+      <setting name="UsedSolutionBuilderID">0</setting>
+    </integer>
+    <boolean>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:AssemblyInfo.cs" caret="405" scrollPosition="0|0" />
+      <File id="BDB3B670-A17B-483E-954C-52FC2B6FF9D3/f:ComInterop.cs" caret="1866" scrollPosition="0|47" />
+      <File id="BDB3B670-A17B-483E-954C-52FC2B6FF9D3/f:BandObject.cs" caret="1062" scrollPosition="0|19" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:HelloWorldBar.cs" caret="952" scrollPosition="0|24" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="BDB3B670-A17B-483E-954C-52FC2B6FF9D3/f:BandObject.cs" caret="379" scrollPosition="0|5" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:AssemblyInfo.cs" caret="2364" scrollPosition="0|44" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:HelloWorldBar.cs" caret="1462" scrollPosition="0|33" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:HelloWorldBar.cs" caret="273" scrollPosition="0|0" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:HelloWorldBar.cs" caret="2316" scrollPosition="0|46" />
+      <File id="ACCDA683-C6AC-43DD-819F-4C3DE36E6BD7/f:HelloWorldBar.cs" caret="942" scrollPosition="0|10" />
+    </RecentEdits>
+  </RecentFiles>
+  <UnitTestRunner>
+    <CustomStartDirectory>
+    </CustomStartDirectory>
+    <UseShadowCopy>True</UseShadowCopy>
+    <UseCustomFolder>False</UseCustomFolder>
+    <EnableUnitTesting>True</EnableUnitTesting>
+    <Providers />
+  </UnitTestRunner>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Qualified:@System.Drawing.SystemColors">
+      <Item value="Menu" priority="0" />
+      <Item value="HotTrack" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Default">
+      <Item value="BandObject" priority="1" />
+      <Item value="this" priority="2" />
+      <Item value="MessageBox" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SampleBars.HelloWorldBar">
+      <Item value="Explorer" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:SHDocVw.WebBrowserClass">
+      <Item value="DocumentComplete" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString" priority="0" />
+      <Item value="GetType" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Type">
+      <Item value="ToString" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>

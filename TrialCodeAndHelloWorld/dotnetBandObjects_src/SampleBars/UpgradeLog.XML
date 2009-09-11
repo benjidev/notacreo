@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="SampleBars">
+</Property><Property Name="Solution File" Value="C:\Projects\Toolbareg\dotnetBandObjects_src\SampleBars\SampleBars.sln">
+</Property><Property Name="Date" Value="03 February 2009">
+</Property><Property Name="Time" Value="08:31">
+</Property></Properties><Event ErrorLevel="0" Project="SampleBars" Source="SampleBars.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="SampleBars" Source="SampleBars.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="SampleBars.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="SampleBars.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SampleBars" Source="SampleBars.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="JetBrains.Annotations, Version=4.1.943.5, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="2db04765-3881-4259-b832-c9f97229bd8e" Timestamp="633620233240000000" XmlDocIndexTimestamp="633620233240000000" />
+  <Assembly Name="Interop.SHDocVw, Version=1.1.0.0" Image="6d30feca-4a38-435d-8717-43995514145f" Timestamp="633692477378842784" />
+  <Assembly Name="Interop.SHDocVw, Version=1.1.0.0, PublicKeyToken=4b827ebe229d539f" Image="f263f639-5858-45af-a51d-24bcde958adb" Timestamp="633692501544749968" />
+</Assemblies>

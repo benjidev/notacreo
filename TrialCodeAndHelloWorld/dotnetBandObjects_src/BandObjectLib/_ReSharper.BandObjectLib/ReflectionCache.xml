@@ -1,0 +1,5 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Assemblies Version="1073741836">
+  <Assembly Name="Interop.SHDocVw, Version=1.1.0.0" Image="02631edb-7cd9-4793-95c1-7f9971613bef" Timestamp="633692469026784272" />
+  <Assembly Name="JetBrains.Annotations, Version=4.1.943.5, Culture=neutral, PublicKeyToken=1010a0d8d6380325" Image="5ed6f87a-50a5-45b9-a77c-5e502d6b3063" Timestamp="633620233240000000" XmlDocIndexTimestamp="633620233240000000" />
+</Assemblies>
